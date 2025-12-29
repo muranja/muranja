@@ -45,13 +45,13 @@
   <tr>
     <td width="50%" align="center">
       <h3>// METRICS</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=muranja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muranja&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>// EXECUTION STREAK</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muranja&theme=tokyonight&hide_border=true" alt="streak" />
       <br /><br />
       <img src="https://git.io/streak-stats-logo" width="0" /> <code>
         while (alive) {<br/>
@@ -66,13 +66,13 @@
 </table>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/muranja/muranja/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+ACCESS&color=0e75b6&style=for-the-badge" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=muranja&label=SYSTEM+ACCESS&color=0e75b6&style=for-the-badge" alt="visitor counter" />
   <br /><br />
   
   <a href="https://twitter.com/YOUR_HANDLE">
